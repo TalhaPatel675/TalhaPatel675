@@ -29,27 +29,16 @@
 <br/>
 
 <!-- ============================================================= -->
-## 👨‍💻 Who I Am
+## 👋 About Me
 
-```ts
-const talha = {
-  title: "AI/ML Engineer & Data Analyst",
-  stack: {
-    languages: ["Python", "SQL"],
-    dataAndAnalytics: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    machineLearning: ["Scikit-Learn", "Streamlit"],
-    biAndReporting: ["Power BI", "Excel"],
-    tools: ["Jupyter", "Git", "GitHub", "VS Code"]
-  },
-  launchedProjects: [
-    "IndiaKart E-Commerce Analytics",
-    "Car Price Prediction (ML)"
-  ],
-  certifications: [], // add yours here
-  status: "Open to Work • Building end-to-end data & ML projects",
-  openTo: ["Data Analyst roles", "Machine Learning / Data Science roles", "Collaborations"]
-};
-```
+Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Analyst** based in **Mumbai, India**, who turns raw, messy data into clear business decisions.
+
+- 🔭 I build **end-to-end data projects** — from data cleaning & **EDA** to **SQL KPI analysis** and interactive **Power BI** dashboards
+- 🤖 I train and ship **machine learning models** with **Python** & **Scikit-Learn**, served through **Streamlit** apps
+- 📊 Core toolkit: **Python · SQL · Pandas · NumPy · Power BI · Scikit-Learn**
+- 🎓 Final-year **AI & Machine Learning** student, focused on real-world, portfolio-ready data work
+- 💼 **Open to** Data Analyst / Data Science / ML roles — let's build something with data
+- 📫 Reach me at **pateltalha675@gmail.com**
 
 <br/>
 
