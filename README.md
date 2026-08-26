@@ -124,17 +124,6 @@ Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Analyst** based in **Mumb
 
 <br/>
 
-<!-- ===== ACTIVITY (one clean dark card; native GitHub graph sits below the README) ===== -->
-<h2 align="center">📈 GitHub Activity</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TalhaPatel675&theme=nord&hide_border=true&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&currStreakNum=7dd3fc&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
 <!-- ===== CONNECT (sky CTA buttons) ===== -->
 <h2 align="center">🤝 Connect With Me</h2>
 
