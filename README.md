@@ -123,7 +123,16 @@ Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Analyst** based in **Mumb
 </div>
 
 <br/>
+<br/>
 
+<!-- ===== CONTRIBUTION SNAKE (served from your own repo — never breaks) ===== -->
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TalhaPatel675/TalhaPatel675/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
 <!-- ===== CONNECT (sky CTA buttons) ===== -->
 <h2 align="center">🤝 Connect With Me</h2>
 
