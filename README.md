@@ -12,12 +12,12 @@
 
 <!-- Animated tagline (dark-friendly) -->
 <a href="https://github.com/TalhaPatel675">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&height=45&lines=AI%2FML+Engineer+and+Data+Analyst;Turning+raw+data+into+clear+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Scikit-Learn;Building+end-to-end+data+and+ML+projects" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&height=45&lines=AI%2FML+Engineer+and+Data+Scientist;Turning+raw+data+into+clear+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Scikit-Learn;Building+end-to-end+data+and+ML+projects" alt="tagline" />
 </a>
 
 <!-- Primary CTA -->
 <br/>
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%26%20ML%20Roles-7dd3fc?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=7dd3fc" alt="Open to Work" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%2FML%20%26%20Data%20Science%20Roles-7dd3fc?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=7dd3fc" alt="Open to Work" />
 
 <!-- Meta row -->
 <br/><br/>
@@ -32,19 +32,39 @@
 <!-- ===== ABOUT ===== -->
 <h2 align="center">👋 About Me</h2>
 
-Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Analyst** based in **Mumbai, India**, who turns raw, messy data into clear business decisions.
+Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Scientist** based in **Mumbai, India**, who turns raw, messy data into clear business decisions.
 
 - 🔭 &nbsp;I build **end-to-end data projects** — from data cleaning & **EDA** to **SQL KPI analysis** and interactive **Power BI** dashboards
 - 🤖 &nbsp;I train and ship **machine learning models** with **Python** & **Scikit-Learn**, served through **Streamlit** apps
 - 📊 &nbsp;Core toolkit: **Python · SQL · Pandas · NumPy · Power BI · Scikit-Learn**
 - 🎓 &nbsp;Final-year **AI & Machine Learning** student, focused on real-world, portfolio-ready data work
-- 💼 &nbsp;**Open to** Data Analyst / Data Science / ML roles — let's build something with data
+- 💼 &nbsp;**Open to** AI/ML Engineer / Data Science roles — let's build something with data
 - 📫 &nbsp;Reach me at **pateltalha675@gmail.com**
 
 <br/>
 
 <!-- ===== PROJECTS ===== -->
 <h2 align="center">🚀 Featured Projects</h2>
+
+### 🎬 &nbsp; StreamFlix Content Analytics
+
+<img src="https://img.shields.io/github/languages/top/TalhaPatel675/StreamFlix-Content-Analytics?style=flat-square&color=7dd3fc&labelColor=0D1117" alt="top language" />
+<img src="https://img.shields.io/github/repo-size/TalhaPatel675/StreamFlix-Content-Analytics?style=flat-square&color=7dd3fc&labelColor=0D1117" alt="repo size" />
+<img src="https://img.shields.io/github/last-commit/TalhaPatel675/StreamFlix-Content-Analytics?style=flat-square&color=7dd3fc&labelColor=0D1117" alt="last commit" />
+<img src="https://img.shields.io/github/stars/TalhaPatel675/StreamFlix-Content-Analytics?style=flat-square&color=7dd3fc&labelColor=0D1117" alt="stars" />
+
+> End-to-end data science pipeline on ~979K subscriber and viewing records across 6 relational datasets — 10 engineered KPIs (churn rate, ARPU, watchlist conversion, completion rate), an interactive Streamlit analytics app, and a 5-page Power BI dashboard.
+
+| Layer | Technology |
+| :--- | :--- |
+| Language | Python, SQL |
+| Analysis | Pandas, NumPy, EDA |
+| App / Dashboard | Streamlit, Power BI |
+| Environment | Jupyter Notebook |
+
+<a href="https://github.com/TalhaPatel675/StreamFlix-Content-Analytics"><img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="View Project" /></a>
+
+<br/>
 
 ### 🛒 &nbsp; IndiaKart E-Commerce Analytics
 
