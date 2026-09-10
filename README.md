@@ -36,14 +36,14 @@
 
 Hi, I'm **Talha Patel** — an **AI/ML Engineer & Data Scientist** focused on building practical Machine Learning and Generative AI applications.
 
-* 🔭  I build **end-to-end AI/ML projects** — from data cleaning, EDA and SQL analytics to model development and deployment
-* 🤖  I develop **Machine Learning solutions** using **Python, Scikit-Learn, XGBoost and feature engineering**
-* 🧠  I build **LLM-powered applications** using **RAG, Text-to-SQL, semantic search and embeddings**
-* 🗄️  I work with **PostgreSQL, SQL and relational data pipelines** to turn business data into actionable insights
-* 🚀  I deploy interactive AI/ML applications using **Streamlit**
-* 📊  Core toolkit: **Python · SQL · Machine Learning · PostgreSQL · Pandas · NumPy**
-* 🎓  AI & Machine Learning graduate focused on real-world, portfolio-ready projects
-* 💼  **Open to** AI/ML Engineer / Data Scientist opportunities
+- 🤖 Build end-to-end **Machine Learning solutions** using Python, Scikit-Learn, XGBoost, feature engineering and model evaluation
+- 🧠 Develop **LLM-powered applications** using RAG, Text-to-SQL, semantic search and embeddings
+- 🗄️ Build **SQL-driven analytics and data pipelines** with PostgreSQL and relational datasets
+- 🎯 Work on real-world problems including **churn prediction, customer segmentation, predictive analytics and business intelligence**
+- 🚀 Deploy interactive **AI/ML applications** using Streamlit and cloud platforms
+- 📊 Turn raw data into **actionable insights through ML, analytics and GenAI**
+- 🎓 AI & Machine Learning graduate building production-oriented portfolio projects
+- 💼 **Open to AI/ML Engineer & Data Scientist opportunities**
 * 📫  Reach me at **[pateltalha675@gmail.com](mailto:pateltalha675@gmail.com)**
 
 <br/>
